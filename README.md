@@ -3,9 +3,9 @@
 
 The process of project:
 
-1.Initiate EDA.ipynb 
-2.Construct MODEL without any processing.ipynb
-3.Feature Engineering(make some derivative column and test it with some oversample or)
+1.Initiate EDA.ipynb    
+2.Construct MODEL without any processing.ipynb  
+3.Feature Engineering(make some derivative column and test it with some oversample or)  
 
 
 
